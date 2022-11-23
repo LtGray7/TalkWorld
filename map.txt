@@ -1,0 +1,350 @@
+; Mark's map format
+; Comments are started with a semi-colon
+;
+; Width
+75
+; Height
+75
+; floor height
+0
+; Map Data
+;
+; Number of texture. NORMAL RRIGHT RLEFT MIRROR FLIP
+;
+# 128\Bg5.pcx 128\Bg5.pcx 1 1 NORMAL
+. 128\Grass.pcx 128\grass.pcx 1 1 NORMAL
+\ 128\Bg6.pcx 128\Bg6.pcx 1 1 NORMAL
+* 128\Fence2.pcx 128\Fence2.pcx 1 1 NORMAL
+a 128\Ichurch1.pcx 128\Church1.pcx 1 1 NORMAL
+b 128\Ichurch1.pcx 128\Church3.pcx 1 1 NORMAL
+c doors\Ichrchdr.pcx doors\Churchdr.pcx 1 1 DOORMED
+e 128\Ichurch1.pcx 128\Church6.pcx 1 1 NORMAL
+m 128\Ne.pcx 128\Ne.pcx 1 1 NORMAL
+l 128\Ne.pcx 128\Ne.pcx 1 1 MIRROR
+O 128\Ne.pcx 128\Ne.pcx 1 1 FLIP
+o 128\Ne.pcx 128\Ne.pcx 1 1 RLEFT
+k 128\Nthnsth.pcx 128\Nthnsth.pcx 1 1 RLEFT
+p 128\Nthnsth.pcx 128\Nthnsth.pcx 1 1 NORMAL
+r 128\Carpet03.pcx 128\Carpet03.pcx 1 1 NORMAL
+V 128\Itavern1.pcx 128\Tavern2.pcx 1 1 NORMAL
+T doors\Itavdoor.pcx doors\Tavdoor.pcx 1 1 DOORMED
+Y 128\Itavern8.pcx 128\Tavern4.pcx 1 1 ANIMIN
+U 128\Itavern7.pcx 128\Tavern3.pcx 1 1 ANIMIN
+Z 128\Itavern5.pcx 128\Tavern5.pcx 1 1 NORMAL
+W 128\Itavern4.pcx 128\Tavern4.pcx 1 1 NORMAL
+s 128\Woodfloo.pcx 128\Woodfloo.pcx 1 1 NORMAL
+d 128\Bndstnd.pcx 128\Bndstnd.pcx 1 1 NORMAL
+A 128\Imuswall.pcx 128\Muswall.pcx 1 1 NORMAL
+X 128\Imuswal3.pcx 128\Muswall.pcx 1 1 NORMAL
+P 128\Imuswal2.pcx 128\Muswall.pcx 1 1 NORMAL
+C doors\Musdoor.pcx doors\Musdoor.pcx 1 1 DOORMED
++ 128\Musbox.pcx 128\Musbox.pcx 1 1 NORMAL
+v 128\Ihall6.pcx 128\Hall2.pcx 1 1 NORMAL
+y 128\Ihall.pcx 128\Hall3.pcx 1 1 NORMAL
+w 128\Ihall2.pcx 128\Hall3.pcx 1 1 NORMAL
+x doors\Halldoor.pcx doors\Halldoor.pcx 1 1 DOORMED
+) 128\Water3.pcx 128\Water3.pcx 1 1 MIRROR
+( 128\Water3.pcx 128\Water3.pcx 1 1 NORMAL
+} 128\Water3.pcx 128\Water3.pcx 1 1 MFLIP
+{ 128\Water3.pcx 128\Water3.pcx 1 1 FLIP
+< 128\Water2.pcx 128\Water2.pcx 1 1 RLEFT
+[ 128\Water2.pcx 128\Water2.pcx 1 1 MIRROR
+] 128\Water2.pcx 128\Water2.pcx 1 1 NORMAL
+> 128\Water2.pcx 128\Water2.pcx 1 1 RRIGHT
+@ 128\Water.pcx 128\Water.pcx 1 1 NORMAL
+f 128\Ihall3.pcx 128\Ihall3.pcx 1 1 NORMAL
+n 128\Tiles01.pcx 128\Tiles01.pcx 1 1 NORMAL
+G 128\Cobtrn.pcx 128\Cobtrn.pcx 1 1 RRIGHT
+B 128\Cobpth.pcx 128\Cobpth.pcx 1 1 NORMAL
+H 128\Cobtrn.pcx 128\Cobtrn.pcx 1 1 FLIP 
+F 128\Cobpth.pcx 128\Cobpth.pcx 1 1 RLEFT
+E 128\Cobtrn.pcx 128\Cobtrn.pcx 1 1 MIRROR
+? 128\Cobtrn.pcx 128\Cobtrn.pcx 1 1 NORMAL
+- 128\Cobngrs.pcx 128\Cobngrs.pcx 1 1 NORMAL
+_ 128\Cobngrs.pcx 128\Cobngrs.pcx 1 1 MIRROR
+$ 128\House4.pcx 128\Ihouse7.pcx 1 1 NORMAL
+% 128\House2.pcx 128\Ihouse4.pcx 1 1 NORMAL
+;Ù 128\House4.pcx 128\House4.pcx 1 1 NORMAL 	;asc 147
+! 128\House4.pcx 128\Ihouse0.pcx 1 1 NORMAL
+& 128\House3.pcx 128\Ihouse8.pcx 1 1 ANIMOUT
+= 128\Ihouse1.pcx 128\Ihouse1.pcx 1 1 NORMAL
+| 128\Ihouse9.pcx 128\Ihouse9.pcx 1 1 NORMAL
+^ 128\Ihouse2.pcx 128\Ihouse2.pcx  1 1 NORMAL
+6 128\Ihouse8.pcx 128\Ihouse0.pcx 1 1 ANIMIN
+" doors\Housdoor.pcx doors\Ihousdor.pcx 1 1 DOORMED
+1 doors\Ihousdor.pcx doors\Tudoor.pcx 1 1 DOORMED
+g doors\Scidoor.pcx doors\Scidoor.pcx 1 1 DOORMED
+i 128\Sciwall6.pcx 128\Sciwall.pcx 1 1 NORMAL
+h 128\Sciwall3.pcx 128\Sciwall.pcx 1 1 NORMAL
+j 128\Scivent.pcx 128\Sciwall5.pcx 1 1 NORMAL
+t 128\Isprtwl2.pcx 128\Sprtwl1.pcx 1 1 NORMAL
+u 128\Isprtwl1.pcx 128\Sprtwl2.pcx 1 1 NORMAL
+Q 128\Isprtwl2.pcx 128\Isprtwl2.pcx 1 1 NORMAL
+R 128\Divide.pcx 128\Divide.pcx 1 1 NORMAL
+D doors\Isprtdor.pcx doors\Sprtdoor.pcx 1 1 DOORMED
+~ 128\Inside2.pcx 128\Cinwall2.pcx 1 1 NORMAL
+K 128\Inside2.pcx 128\Scrnwl.pcx 1 1 NORMAL
+L 128\Scrnwl.pcx 128\Scrnwl.pcx 1 1 NORMAL
+' 128\Scrnwl.pcx 128\Cinwall2.pcx 1 1 NORMAL
+S doors\Icindoor.pcx doors\Cindoor2.pcx 1 1 DOORFAST
+2 128\Ihouse4.pcx 128\Tudor2.pcx 1 1 NORMAL
+3 128\Ihouse7.pcx 128\Tudor3.pcx 1 1 NORMAL
+4 128\Ihouse1.pcx 128\Tudor3.pcx 1 1 NORMAL 
+5 128\Ihouse2.pcx 128\Tudor2.pcx 1 1 NORMAL
+7 128\Ihouse4.pcx 128\House4.pcx 1 1 NORMAL
+8 128\Gravel.pcx 128\Gravel.pcx 1 1 NORMAL
+0 128\Pergola.pcx 128\Pergola.pcx 1 1 DOORMED
+9 128\Masivy.pcx 128\Masivy.pcx 1 1 NORMAL
+, 128\Forest.pcx 128\Forest.pcx 1 1 NORMAL
+` 128\Tition2.pcx 128\Tition2.pcx 1 1 NORMAL
+I 128\Screen.pcx 128\Cinwall2.pcx 1 1 NORMAL
+J 128\Screen.pcx 128\Cinwall2.pcx 1 1 MIRROR
+M 128\Field.pcx 128\Field.pcx 1 1 NORMAL
+N 128\Field.pcx 128\Field.pcx 1 1 MIRROR
+/ 128\Field.pcx 128\Field.pcx 1 1 MFLIP
+: 128\Field.pcx 128\Field.pcx 1 1 FLIP
+z 128\Isprtwl3.pcx 128\Isprtwl3.pcx 1 1 NORMAL
+« 128\Itavern7.pcx 128\Itavern8.pcx 1 1 ANIMBOTH
+¸ doors\Gate.pcx doors\Gate.pcx 1 1 DOORMED
+Í 128\Bar.pcx 128\Bar.pcx 1 1 NORMAL
+;É 128\House4.pcx 128\House4.pcx 1 1 NORMAL
+· 128\Cincarp.pcx 128\Cincarp.pcx 1 1 NORMAL
+ÿ 128\Marbwll.pcx 128\Marbwll2.pcx 1 1 NORMAL
+° 128\Marbwll2.pcx 128\marbwll.pcx 1 1 NORMAL
+end
+;
+;
+r-------------------------------------------------------------------------T
+(                                                                         )
+(                       ########## ###### #####                           )
+(                       #        # #      #   #      r--T                 )
+(                       #        # #   rT #   #      (  )                 )
+(                       #        # #   LJ #   #      L__J                 )
+(                       #    ##### #####      #                           )
+(                       # ###           ###   #                           )
+(                       # #               #   #                           )
+(                       ###               #####                           )
+(                                                                         )
+(                                                                         )
+(                        r-------------------T                            )
+(      _________________J  _________________  L_________________          )
+(      (                  )   (   )    (    (                  )          )
+(      (  r---T           )   (   )    (    (           r----T )          )
+(      (  (   )____       )   (   )    (    (       ____(    ) )          )
+(      (  L   )    (  r--T)   (   )    (    (r--T  )    (    ) )          )
+(      (      )    (  (  ))   (   )    (    ((  )  )    (      )          )
+(      (  ____J    (  (  ) ----------------- (  )] )    L____  )          )
+L______( )    #    (  (  )                   (  )  )    (    ( )__________J
+(        )    #    (  (  )--------T r--------   )  )    (    ( )          )
+(        )         (  (  #        ) (   #   #   )  )         ( )____      )
+(         ---------  r(  #        ) (   #   #   )   ---------       T___  )
+r-------------T      LL___________J L___________J] [        ] r------ ) T )
+(r----T   )     r-T                                  n        (       )   )
+(L_   )   )  r------T                             r-- -------T        )   )
+(  L   ]  )  (      )                             (      )   )        )   )
+(   L_J   )  (       ]                           [   T---)---)        )   )
+L_________J  L___   )                             (   _______J________J   )
+(         _____  (  )     r------T r---------T    (T )                    )
+(        )     ( (  )     ( r---T -  r------T)    (  )     rT    r--T r--T)
+(-----T  )     ( (  )     ([     ]   (  #   ))    ( L)     LJ    (  ) (  ))
+( r-T )  )_____( (  )     ( (   )   [     # ))    (  )   r-----T L__J L__J)
+([   ])  )     ( (  )     ([     ]   L______JJ    (J )  [T r--T)          )
+( ( )    )_____( L__J     ( L___J           )     L__J   ( L__J) r-------T)
+(r   T)  )     (          L       rT         T          r      ) (       ))
+(L   J)  )_____( r--T      (      LJ      r-T)    r--T  (------) L___    ))
+( ( ) )  )     ( (   ]    rr-T        rT  ( ))   [   )  L      )     L___J)
+( ( ) )  )_____( (##)     ((  ----r---  --  ))    (##)   (     )      r--T)
+( L_J )  )     ( (  )     ((      J___L  L  ))    (  )   (     ) r--T (  ))
+(_____J  )     ( (  )     ((T LJ  )  (T   __J)    (  )   L_____J (   -   ))
+(        )     ( (  )     (L______J _L___J   )    (  )           L_______J)
+(         -----  (  )     L________J L_______J    (  )     _   _   _   _  )
+(  r----T    r--- #_)          ()     ()          (## ---T) (() ()) (() (#)
+(  (    )    (       ]    r---- ) r-T ( -- --T    (      )) (() ()) (() (#)
+(  (    )    (###   )     L__ __J L_J L___ __J    (   ###) - ( - ) - ( - #)
+(  (    )    L______J   n                     n   L______J   r---------   )
+(  L____J             r- ---------T r--------- -T            (    r---T   )
+(    ______n_______   (  )        ) (   r   T    ]  _________(    (###)   )
+(   )              (  (  )        ) (   L   J   )  )    T    (    L___J   )
+(   )--L---T  (    (  (  )________J L________   )  )    )    (            )
+(   )         (    (  (  )                   (  )  )    (    (            )
+(    ---------T    (  (  ) _________________ (  )  )    r----(            )
+(             )    (  (  ))   (   )    (    ((  )  )    (    (    r---T   )
+(             )    (  L__J)   (   )    (    (L__J  )    (    (    (    T  )
+(############# ----       )   (   )    (    (       ----     ( r---     T )
+(  #  #   #  #            )   (   )    (    (       r--------- (        ) )
+(       #    ##########   )   (   )    (    (       (          r---T    ) )
+(  ########           #-T  -----------------  r-----(          L________J )
+(  #    #   ######### #                             (                     )
+(  # ########      #             r---T        ####### ########## #########T
+(      ###    #    # ##    r-----     -----T                     #        )
+r#####     #####      #    (               ) #############################J
+(   #   ##    #  #### #    L____ __ ___ ___JT#                            )
+( #   # #  #  #  #    #     LJ __(__ _)__ _# #                            )
+L##########################[(    (    )    )]#                            )
+(                           (    (    )    )                              )
+(                           (    (    )    )                              )
+(                           L____L____J____J                              )
+(                                                                         )
+(                                                                         )
+(                                                                         )
+(                                                                         )
+L_________________________________________________________________________J
+;                                                                             
+;wall map
+;
+999999999999999999999999999999999999999999999999999999999999999999999999999
+9                                                                         9
+9                       ,,,,,,,,,, ,,,,,, ,,,,,                           9
+9                       ,        , ,      ,   ,      2322                 9
+9                       ,        , ,   dd ,   ,      1  5                 9
+9                       ,        , ,   dd ,   ,      2242                 9
+9                       ,    ,,,,, ,,,,,      ,                           9
+9                       , ,,,           ,,,   ,                           9
+9                       , ,               ,   ,                           9 
+9                       ,,,               ,,,,,                           9 
+9                                                                         9
+9                                                                         9
+9                        #\#\#\#\#\#\#\#\#\#\#                            9
+9      #\#\#\#\#\#\#\#\#\  $%!%$$&%$!%%&$$&!  \#\#\#\#\#\#\#\#\#          9
+9      \                  $   =   =    =    $                  \          9
+9      #  RRRRR           %   =   |    ^    %           RRRRRR #          9
+9      \  R   R$"!$       !   ^   =    ^    !       $"!$R    R \          9
+9      #  R   $    $  2313%   =   ^    ^    %3242  $    $    R #          9
+9      \      "    "  2  2$   =   =    |    $2  2  "    "      \          9
+9      #  $%$%$    !  3  3 $"%!%"$%!"&$%$"$$ 3  33 !    $%$%$  #          9
+9\#\#\#\ $    ^    $  5  4                   4  5  $    =    $ \#\#\#\#\#\9
+9        %    |    !  2  6235243243 342342531   2  !    |    % R          9
+9        $         %  4  =        5 4   ^   =   4  %         $ RR¸RR      9
+9         $%$$!$!$$  33  ^        3 3   |   6   3   $$!$!$$%$       RRRR  9
+9RRRRRRRRRRRRRR      33314521314312 31341312541333 R        R ******* * R 9
+9ababaa   R     225                                  5        *       *   9
+9ba   b   R  23422523                             352 22434235        *   9
+9  b   c  R  5      3                             4      |   1        *   9
+9   ebe   R  2       1                           1   ^6==6^=|3        *   9
+9RRRRRRRRRR  3234   4                             5   33434452*********   9
+9         $%!%$  2  1     ÿ°ÿ°ÿ°ÿ° ÿ°ÿ°ÿ°ÿ°ÿ°ÿ    1^ 2                    9
+9        $     $ 3  2     ° vyvyv 0  APXAPAPA°    4  3     21    2322 24229
+9******  $     " 5  1     ÿw     w   A  +   Xÿ    1 |4     22    1  5 5  39
+9 aaa *  %==^==$ 2  3     ° v   x   C     + P°    2  2   ttututt 2242 23129
+9b   b*  &     " 4  1     ÿw     w   PAXAPAXAÿ    16 1  DQ ÍÍÍÍt          9
+9 a b    $==|==! 3532     ° vyvyv           0     3243   u ÍÍÍÍt 2525423529
+9a   c*  %     "          ÿ       **         °          u      t 3       39
+9e   e*  $=====$ 2353      0      **      VTVÿ    4352  tzzzzzzt 2312    49
+9 a a *  &     " 3   1    °VTV        ZZ  Y Y°   1   3  u      t     235229
+9 a a *  $==|==! 5|=4     ÿY  UWZUYZZY  UW  Zÿ    2=|3   t     t      22429
+9 eae *  !     " 3  2     °Z      «TZ«`  `  Y°    1  4   t     t 2132 2  29
+9******  %     & 4  3     ÿY` ``  Y  Z`   ZUWÿ    3  5   tuutttt 3   5   59
+9        !     $ 3  1     °WUZWWZUZ 0WZUZW   °    1  2           2424223529
+9         $!$%$  3  3     ÿ°ÿ°ÿ°ÿ°ÿ° ÿ°ÿ°ÿ°ÿ°ÿ    5  5     $   "   &   $  9
+9  RRRRRR    3334 =^5          RR     RR          3=^ 2442" %R$ $R$ $R" $,9
+9  R    R    5       1    RRRRR R ddd R RR RRR    1      5& $R$ $R" $R$ %,9
+9  R    ¸    3=6=   4     RRR RRR ddd RRRR RRR    3   |=62 " R $ R % R $ ,9
+9  R    R    34353532   1                     1   53242352   RRRRRRRRRR   9
+9  RRRRRR             33 4521314312 3134131254 33            R    RRRRR   9
+9    $%$%$!7$$"$$!$   2  ^        3 4   ^   =    3  $"!$!$$%$R    ¸,,,R   9
+9   $              $  3  =        5 3   |   6   4  $    |    $    RRRRR   9
+9   %=|==^==  =    "  5  6342432532 342342531   2  !    =    %            9
+9   $         ^    %  2  4                   4  5  "    ^    $            9
+9    $$%$%$!!$$    %  4  3 $"$$$"$$"$$$$"$$$ 3  3  !    $%$%$R            9
+9             !    $  3  2$   =   |    =    $2  2  $    $    R    ihghi   9
+9             $    !  2353$   =   =    =    $3242  %    $    R    i    i  9
+9,,,,,,,,,,,,, $"$$       $   =   ^    =    $       $!$%     R ihii     h 9
+9  ,  ,   ,  ,            $   ^   =    ^    $       RRRRRRRRRR i        i 9
+9       ,    ,,,,,,,,,,   $   =   =    |    $       R          jjjjj    h 9
+9  ,,,,,,,,           ,RR  $$$$$$$$$$$$$$$$$  RRRRRRR          jjjjjiiihi 9
+9  ,    ,   ,,,,,,,,, ,                             R                     9
+9  , ,,,,,,,,      ,             ~~S~~        ,,,,,,, ,,,,,,,,,, ,,,,,,,,,9
+9      ,,,    ,    , ,,    ~~~~~~     ~~~~~~                     ,        9
+9,,,,,     ,,,,,      ,    ~               ~ ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,9
+9   ,   ,,    ,  ,,,, ,    ~~KKK KK KKK KKK~~,                            9
+9 ,   , ,  ,  ,  ,    ,     KK KKLKK KLKK KK ,                            9
+9,,,,,,,,,,,,,,,,,,,,,,,,,,,'    L    L    ',,                            9
+9                           '    L    L    '                              9
+9                           '    L    L    '                              9
+9                           ''IJ'L'IJ'L'IJ''                              9
+9                                                                         9
+9                                                                         9
+9                                                                         9
+9                                                                         9
+999999999999999999999999999999999999999999999999999999999999999999999999999
+;
+;
+; Floor map
+;
+...........................................................................
+..mkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkpkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkl....
+..p)<<<<<<<<<<<<<<<<<<<(..........p............)<<<<<<<<<<<<<<<<<<<<<(p....
+..p[@@@@@@@@@@@@@@@@@@@]..........p............[@@@@@rrrr@@@@@@@@@@@@]p....
+..p[@@@@@@@@@@@@@@@@@@@]..........p............[@@@@@rrrr@@@@@@@@@@@@]p....
+..p[@@@@@@@@@@@@@@@@@@@]..........p............[@@@@@rrrr@@@@@@@@@@@@]p....
+..p[@@@@@@@@@@@@@@@@@@@]..........p............[@@@@@@@@@@@@@@@@@@@@@]p....
+..p[@@@@@@@@@@@@@@@@@@@]......mkklpmkkl........[@@@@@@@@@@@@@@@@@@@@@]p....
+..p[@@@@@@@@@@@@@@@@@@@]...mkkO..ppp..okkl.....[@@@@@@@@@@@@@@@@@@@@@]p....
+..p[@@>>>>>>>>>>>>>>>>>}...p.....ppp.....p.....{>>>>>>>>>>>>>>>>>>@@@]p....
+..p[@]mkkkkkkkkkkkkkkkkkkkkO.....ppp.....okkkkkkkkkkkkkkkkkkkkkkkl[@@]p....
+..p[@]p..........8888888888888888ppp88888888888888888............p[@@]p....
+..p[@]p88888888888..................................8888888888888p[@@]p....
+..p[@]p8..................8888888888888888888...................8p[@@]p....
+..p[@]p8..................8rrrrrrrrrrrrrrrrr8...................8p[@@]p....
+..p[@]p8..................8rrrrrrrrrrrrrrrrr8...................8p[@@]p....
+..p{>}p8......888888.888888rrrrrrrrrrrrrrrrr888888.888888.......8p{>>}p....
+..okkkO8......8rrrr8.8ssss8rrrrrrrrrrrrrrrrr8ssss8.8ssss8.......8okkkkO....
+.......8......8rrrr8.8ssss8rrrrrrrrrrrrrrrrr8ssss8.8ssss8.......8..........
+888888888888888rrrr8.8ssss8888888888888888888ssss8.8ssss888888..88888888888
+.....88888rrrrrrrrr8.8ssss.........8.........ssss8.8sssssssss8..........8..
+.....8...8rrrrrrrrr8.8sssssssssssss8sssssssssssss8.8sssssssss8..........8..
+.....8...8rrrrrrrrr8.8sssssssssssss8sssssssssssss8.8sssssssss8..........8..
+.....8...88888888888.8sssssssssssss8sssssssssssss8.88888888888..........8..
+.....8...............8sssssssssssss8sssssssssssss8..GBH.................8..
+.nnnnnn....8GBBBBBBBBH888888888888888888888888888GBBEs?BBBBBBH.)<<<<(...8..
+.nnnnnn....8FssssssssF...........................Fssssssssssss.[@@@@]...8..
+...nnnnn...8Fssssssss?H.........................GEsssrrsssssss.[@@@@]...8..
+....nnn....8FsssssssssF.........................Fssssrrsssssss.{>>>>}...8..
+.....8.....8FssssssssGE.........................?Hssssssssssss..........8..
+.....8888888?BBBHssssF....GBBBBBBBBBBBBBBBBBBB...FssssGBBBBBBE..88888888888
+..........rrrrr.FssssF....F8fffff88.8ffffffff....FssssF....rr...8rrrr8rrrr8
+..........rrrrr.FssssF....Ffffffff8.8fffnffff....FssssF....rr...8rrrr8rrrr8
+..nnn.....rrrrr.FssssF....F8fffff888ffffffnff....FssssF..fffffff8rrrr8rrrr8
+.nnnnn....rrrrr.FssssF....Ffffffff8.8ffffffff....FssssF.fff@@@@f88888888888
+..nnn.....rrrrr.FssssF....F8fffffGBBH888888888...FssssF..ff@@@@f8rrrrrrrrr8
+.nnnnn....rrrrr.-BBBB_....F888888F)(F........F...-BBBB_.ffffffff8rrrrrrrrr8
+.nnnnn....rrrrr.Fssss?H...F......F{}F.....sssF..GEssssF.ffffffff8rrrrrrrrr8
+..nnn.....rrrrr.FsssssF...Fsss...?BBE.ss..sssF..FsssssF.ffffffff8....rrrrr8
+..nnn.....rrrrr.FssssGE...FssssssssssssssssssF..?HssssF..ffMNfff8.....rrrr8
+..nnn.....rrrrr.FssssF....FssssssssssssssssssF...FssssF..ff/:fff8rrrr.rrrr8
+..........rrrrr.FssssF....Fssssssss..ssssssssF...FssssF..fffffff8rrrrrrrrr8
+..........rrrrr.FssssF....Fssssssss..sssss...F...FssssF.........8rrrrrrrrr8
+............GBBBEssssF....?BBBBBBBBBBBBBBBBBBE...Fssss?BBBH88.8888888888888
+............Fssssssss?H..........................FssssssssFr8.8r8.8r8.8r8.8
+............FsssssssssF...........sss............FsssrrsssFr8.8r8.8r8.8r8.8
+............FssssssssGE...........sss............FsssrrsssF88.888.888.888.8
+............FssssssssF..s.....................s..FssssssssF....888888888888
+............?BBBBBBBBEsssssssssssss.sssssssssssss?BBBBBBBBE....8...........
+....8888888s88888888..sssssssssssss.ssssssssssssss.88888888888.8...........
+....8ssssssssssssss8..sssssssssssss.sssssssssssss..8rrrrrrrrr8.8...........
+....8ssssssssssssss8..sssssssssssss.sssssssssssss..8rrrrrrrrr8.8...........
+....8ssssssssssssss8..ssss...................ssss..8rrrrrrrrr8.8...........
+....88888888888ssss8..ssss8888888888888888888ssss..8rrrr88888888...........
+..............8ssss8..ssss8rrrrrrrrrrrrrrrrr8ssss..8rrrr8.....8...nnnnn....
+..............8ssss8..ssss8rrrrrrrrrrrrrrrrr8ssss..8rrrr8.....8...nnnnnn...
+..............888888......8rrrrrrrrrrrrrrrrr8......888888.....8nnnnnnnnnn..
+.88.88.888.88.............8rrrrrrrrrrrrrrrrr8........8........8nnnnnnnnnn..
+.8888888.8888.............8rrrrrrrrrrrrrrrrr8........8........8nnnnnnnnnn..
+.88.......888888888888....8888888.....8888888........8........8nnnnnnnnnn..
+.88.8888.888.........8..........8888888..............8.........8...........
+.88.8........888888.8888888888888·····8888888........8.........8...........
+.888888...8888.8888.8.....8·················88888888888888888888...........
+......88888.....888888....8·················8..............................
+.888.888..8888.88....8....8·················8..............................
+.8.888.8.88.88.88.8888....88················8..............................
+..........................88················8.............................. 
+...........................8················8..............................
+...........................8················8..............................
+...........................8················8..............................
+...........................888888888888888888..............................
+...........................................................................
+...........................................................................
+...........................................................................
+...........................................................................
+;
+;

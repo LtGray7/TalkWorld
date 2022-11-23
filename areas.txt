@@ -1,0 +1,127 @@
+;
+;
+75
+75
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@!!!!!!!!!!!!!!!!!!!!!@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@<<<<<<<<<<<<<<<!!!!!!!!!!!!!!!!!!!!!!!!!!!!>>>>>>>>>>>>>>@@@@@@@@@@@
+@@@@@@@<<<<<<<<<<<<<<<!!!!!!!!!!!!!!!!!!!!!!!!!!!!>>>>>>>>>>>>>>@@@@@@@@@@@
+@@@@@@@<<<<<<<<<<<<<<<!!!!!EEEEEEEEEEEEEEEEE!!!!!!>>>>>>>>>>>>>>@@@@@@@@@@@
+@@@@@@@<<<<<<<<<<<<<<<!!!!!EEEEEEEEEEEEEEEEE!!!!!!>>>>>>>>>>>>>>@@@@@@@@@@@
+@@@@@@@<<<<<<<<<<<<<<<!!!!!EEEEEEEEEEEEEEEEE!!!!!!>>>>>>>>>>>>>>@@@@@@@@@@@
+@@@@@@@<<<<<<<<AAAA<<<BBBB!EEEEEEEEEEEEEEEEE!CCCC!>>DDDD>>>>>>>>@@@@@@@@@@@
+@@@@@@@<<<<<<<<AAAA<<<BBBB!EEEEEEEEEEEEEEEEE!CCCC!>>DDDD>>>>>>>>@@@@@@@@@@@
+<<<<<<<<<<<<<<<AAAA<<<BBBB!!!!!!!!!!!!!!!!!!!CCCCC>>DDDD>>>>>>>>>>>>>>>>>>>
+<<<<<<<<<<AAAAAAAAA<<<BBBB!!!!!!!!!!!!!!!!!!!CCCC>>>DDDDDDDDD>>>>>>>>>>>>>>
+<<<<<<<<<<AAAAAAAAA<<<BBBBBBBBBBBBB!CCCCCCCCCCCCC>>>DDDDDDDDD>>>>>>>>>>>>>>
+<<<<<<<<<<AAAAAAAAA<<<BBBBBBBBBBBBB!CCCCCCCCCCCCC>>>DDDDDDDDD>>>>>>>>>>>>>>
+<<<<<<<<<<<<<<<<<<<<<BBBBBBBBBBBBBB!CCCCCCCCCCCCC>>>DDDDDDDDD>>>>>>>>>>>>>>
+<<<<<<<<<<<<<<<<<<<<<BBBBBBBBBBBBBB,CCCCCCCCCCCCCC>>>>>>>>>>>>>>>>>>>>>>>>>
+<tttttt<<<<<<<<<RRR<<,,,,,,,,,,,,,,,,,,,,,,,,,,,,,>>>O>>>>>>>>>>>>>>>>>>>>>
+~tttttt~~~~~~RRRRRRRR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,OOOOOOOOOOOO:::::::::::::
+~~~ttttt~~~~~RRRRRRRR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,OOOOOOOOOOOO:::::::::::::
+~~~~ttt~~~~~~RRRRRRRRR,,,,,,,,,,,,,,,,,,,,,,,,,,,OOOOOOOOOOOOO:::::::::::::
+~~~~~~~~~~~~~RRRRRRRR,,,,,'''''''''''''''''''',,,,OOOOOOOOOOOO:::::::::::::
+~~~~~~~~~~~~~~~~~RRRR,,,,,'''''''''''''''''''',,,,OOOO:::::::::::::::::::::
+~~~~~~~~~~FFFFF~~RRRR,,,,,''LLLLL''''KKKKKKKK',,,,OOOO:::::::::::1111:2222:
+~~~~~~~~~~FFFFF~~RRRR,,,,,'LLLLLLL'''KKKKKKKK',,,,OOOO:::::::::::1111:2222:
+~~TTT~~~~~FFFFF~~RRRR,,,,,''LLLLL'''KKKKKKKKK',,,,OOOO:::QQQQQQQ:1111:2222:
+~TTTTT~~~~FFFFF~~RRRR`````'LLLLLLL'''KKKKKKKK'````OOOO::QQQQQQQQ:::::::::::
+~~TTT~~~~~FFFFF~~RRRR`````''LLLLL'''''''''''''````OOOO:::QQQQQQQ:333333333:
+~TTTTT~~~~FFFFF~~~~```````''''''''''''''''''''``````::::QQQQQQQQ:333333333:
+~TTTTT~~~~FFFFF~~SSSS`````''''''''''''''''NNN'````PPPP::QQQQQQQQ:333333333:
+~~TTT~~~~~FFFFF~~SSSSS````'NNN''''''''NN''NNN'```PPPPP::QQQQQQQQ:::::33333:
+~~TTT~~~~~FFFFF~~SSSS`````'NNNNNNNNNNNNNNNNNN'````PPPP:::QQQQQQQ::::::4444:
+~~TTT~~~~~FFFFF~~SSSS`````'NNNNNNNNNNNNNNNNNN'````PPPP:::QQQQQQQ:4444:4444:
+~~~~~~~~~~FFFFF~~SSSS`````'NNNNNNNN``NNNNNNNN'````PPPP:::QQQQQQQ:444444444:
+~~~~~~~~~~FFFFF~~SSSS`````'NNNNNNNN``NNNNN''''````PPPP:::::::::::444444444:
+~~~~~~~~~~~~~~~~~SSSS`````````````````````````````PPPP:::::::::::::::::::::
+~~~~~~~~~~~~~SSSSSSSS`````````````````````````````PPPPPPPP:G:::H:::I:::X:::
+[[[[[[[[[[[[[SSSSSSSSS````````````````````````````PPPPPPPP:G:::H:::I:::X:::
+[[[[[[[[[[[[[SSSSSSSS`````````````````````````````PPPPPPPP:::::::::::::::::
+[[[[[[[[[[[[[SSSSSSSS```U`````````````````````V```PPPPPPPP]]]]]]]]]]]]]]]]]
+[[[[[[[[[[[[[[[[[[[[[[UUUUUUUUUUUUU`VVVVVVVVVVVVV]]]]]]]]]]]]]]]]]]]]]]]]]]
+[[[[[[[[[[[W[[[[[[[[[[UUUUUUUUUUUUU.VVVVVVVVVVVVVV]]]]]]]]]]]]]]]]]]]]]]]]]
+[[[[[WWWWWWWWWWWWWW[[[UUUUUUUUUUUUU.VVVVVVVVVVVVV]]]JJJJJJJJJ]]]]]]]]]]]]]]
+[[[[[WWWWWWWWWWWWWW[[[UUUUUUUUUUUUU.VVVVVVVVVVVVV]]]JJJJJJJJJ]]]]]]]]]]]]]]
+[[[[[WWWWWWWWWWWWWW[[[UUUU...................VVVV]]]JJJJJJJJJ]]]]]]]]]]]]]]
+[[[[[[[[[[[[[[[WWWW[[[UUUU...................VVVV]]]JJJJ]]]]]]]]]]]]]]]]]]]
+[[[[[[[[[[[[[[[WWWW[[[UUUU.ZZZZZZZZZZZZZZZZZ.VVVV]]]JJJJ]]]]]]]]]]MMMMM]]]]
+[[[[[[[[[[[[[[[WWWW[[.UUUU.ZZZZZZZZZZZZZZZZZ.VVVV]]]JJJJ]]]]]]]]]]MMMMMM]]]
+-------------[[[[[[[[......ZZZZZZZZZZZZZZZZZ.....]]]]]]]]]]]]]]MMMMMMMMMM]]
+-------------[[[[[[[[......ZZZZZZZZZZZZZZZZZ.....]]]]]]]]]]]]]]MMMMMMMMMM]]
+----------------------.....ZZZZZZZZZZZZZZZZZ.....]]]]]]]]]]]]]]MMMMMMMMMM]]
+----------------------...........................]]]]]]]]]]]]]]MMMMMMMMMM]]
+-----------------------....................................................
+----------------------...........YYYYY.....................................
+----------------------.....YYYYYYYYYYYYYYYYY...............................
+----------------------.....YYYYYYYYYYYYYYYYY...............................
+----------------------.....YYYYYYYYYYYYYYYYY..@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+----------------------......YYYYYYYYYYYYYYYY..@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@..YYYYYYYYYYYYYYYY..@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@..YYYYYYYYYYYYYYYY..@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@..YYYYYYYYYYYYYYYY..@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@YYYYYYYYYYYYYYYY@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+;
+; Below is the adjacent area listX  The format is as follows:
+; <area><space><adjacent areas><forum> [<area name>]
+;
+< !~, n upperleft
+! <>, n uppermiddle
+> !,: n upperright
+~ <[],` n middleft
+[ ~.-` n bottomleft
+. []-`@ n bottomiddle
+] ~.:` n bottomright
+, <!>~'` n centertop
+: >]` n middleright
+' ,` n Town Square
+- [. n The Maze
+` ~[.],:' n centerbottom
+@ .1234ABCDEFGHIJKLMNOPQRSTtUVWXYZ n nothing
+1 @ n Small House
+2 @ n Small Building
+3 @ n L Shaped Building
+4 @ n Bizarre Building
+K @ y The Museum
+L @ y The Town Hall
+M @ y The Science Centre
+N @ y The Tavern
+Q @ y The Sports Centre
+T @ y The Church
+t @ n The Smaller Church
+Y @ y The Cinema
+A @ n area-a
+B @ u The Drawing Room
+C @ u The International Room
+D @ n area-d
+E @ n area-e
+F @ n area-f
+J @ n area-j
+O @ u The Study
+P @ n area-p
+R @ u The Lounge
+S @ n area-s
+U @ n area-u
+V @ n area-v
+W @ n area-w
+Z @ n area-z
+G @ n Westmost Cabin
+H @ n Midwest Cabin
+I @ n Mideast Cabin
+X @ n Eastmost Cabin

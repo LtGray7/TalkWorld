@@ -1,0 +1,40 @@
+;The emote file - format is as follows...
+;
+;  CONTEXT:ACTION
+;
+; CONTEXT = what is displayed in the context menu. (20 char MAX)
+; : = separating symbol
+; ACTION  = what everyone sees when you 'do' that action (80 char MAX)
+; 
+;  The '%s' symbol is used to represent the person the action is performed upon
+; such as 'Hug:hugs %s.' will produce 'Andy hugs April.' if Andy has selected
+; April as the person to perform the action on.
+;  Notice you don't need to do an action to someone, just leave the '%s' out.
+;  BE AWARE - only one %s is allowed, any attempt to have more than one will be stopped.
+;
+Bow to:bows to %s.
+Caper:capers about madly.
+Chuckle:chuckles.
+Comfort:comforts %s.
+Cry:bursts into tears.
+Eyebrow:raises an eyebrow.
+Frown:frowns at %s.
+Glance:glances at %s.
+Glare:glares menacingly at %s.
+Grimace:grimaces.
+Grin:grins evilly.
+Hug:hugs %s.
+Laugh:laughs.
+Nod:nods in agreement.
+Ponder:ponders the situation.
+Shrug:shrugs.
+Slap Back:slaps %s on the back.
+Smile:smiles happily.
+Smirk:smirks devilishly.
+Tap:taps %s on the shoulder.
+Tickle:tickles %s mercilessly.
+Wave:waves to %s.
+Wince:winces.
+;
+;  No need to end the list - just don't make it too long (200 MAX at the moment) 
+;   as the emotes will fall off your screen.

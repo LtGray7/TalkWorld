@@ -1,0 +1,295 @@
+; Mark's map format
+;
+;
+; Comments are started with a semi-colon
+;
+;
+; Width
+75
+; Height
+75
+; floor height
+475
+; Map Data
+;
+; Number of texture. NORMAL RRIGHT RLEFT MIRROR FLIP
+;
+o 128\Tudor5.pcx 128\Tudor5.pcx 1 1 NORMAL
+q 128\Ihouse6.pcx 128\Ihouse6.pcx 1 1 NORMAL
+p 128\Ihouse5.pcx 128\Ihouse5.pcx 1 1 NORMAL
+x 128\Ichurch5.pcx 128\Ichurch5.pcx 1 1 NORMAL
+z 128\Ichurch1.pcx 128\Church1.pcx 1 1 NORMAL
+y 128\Church1.pcx 128\Church1.pcx 1 1 NORMAL
+f 128\Ichurch2.pcx 128\Ichurch2.pcx 1 1 NORMAL
+d 128\Ichurch3.pcx 128\Ichurch3.pcx 1 1 NORMAL
+e 128\Church5.pcx 128\Church5.pcx 1 1 NORMAL
+# 128\Bg3.pcx 128\Bg3.pcx 1 1 NORMAL
+\ 128\Bg4.pcx 128\Bg4.pcx 1 1 NORMAL
+W 128\Tavern2b.pcx 128\Tavern2b.pcx 1 1 NORMAL
+V 128\Tavern1b.pcx 128\Tavern1b.pcx 1 1 NORMAL
+T 128\Tavern4.pcx 128\Tavern3.pcx 1 1 NORMAL
+U 128\Itavern6.pcx 128\Itavern6.pcx 1 1 NORMAL
+h 128\Imuswin.pcx 128\Muswin.pcx 1 1 NORMAL
+l 128\Ihall5.pcx 128\Hall3.pcx 1 1 NORMAL
+* 128\Ihall5.pcx 128\Hall1.pcx 1 1 NORMAL
+Z 128\Balconyb.pcx 128\Balconyb.pcx 1 1 NORMAL
+m 128\Ihall4.pcx 128\Ihall4.pcx 1 1 NORMAL
+A 128\House3b.pcx 128\House3b.pcx 1 1 NORMAL
+B 128\House5.pcx 128\House5.pcx 1 1 NORMAL
+;C 128\Ihall4.pcx 128\Ihall4.pcx 1 1 NORMAL
+b 128\Inside2.pcx 128\Cinwall1.pcx 1 1 NORMAL
+c 128\Inside2.pcx 128\Cindoor.pcx 1 1 NORMAL
+k 128\Sciwin.pcx 128\Sciwin2.pcx 1 1 NORMAL
+g 128\Sciwall5.pcx 128\Sciwall4.pcx 1 1 NORMAL
+j 128\Sciwall5.pcx 128\Sciwall5.pcx 1 1 NORMAL
+F 128\Sprtwl5.pcx 128\Sprtwl5.pcx 1 1 NORMAL
+G 128\House.pcx 128\House.pcx 1 1 NORMAL
+0 128\North.pcx 128\South.pcx 1 1 NORMAL
+2 128\East.pcx 128\West.pcx 1 1 NORMAL
+4 128\West.pcx 128\East.pcx 1 1 NORMAL
+3 128\South.pcx 128\North.pcx 1 1 NORMAL
+' 128\Forest2.pcx 128\Forest2.pcx 1 1 NORMAL
+E signs\Mussign.pcx signs\Mussig2.pcx 1 1 NORMAL
+D signs\Pubsign.pcx signs\Pubsign.pcx 1 1 NORMAL
+H signs\Hallsign.pcx signs\Hallsig2.pcx 1 1 NORMAL
+I signs\Sprtsign.pcx signs\Sprtsig2.pcx 1 1 NORMAL
+K signs\Scisig2.pcx signs\Scisign.pcx 1 1 NORMAL
+Q 128\Cinroof.pcx 128\Cinroof.pcx 1 1 NORMAL
+;Ø 128\Marbwll.pcx 128\Marbwll2.pcx 1 1 NORMAL
+;¡ 128\Marbwll2.pcx 128\marbwll.pcx 1 1 NORMAL
+end
+;
+;
+r-------------------------------------------------------------------------T
+(                                                                         )
+(                       ########## ###### #####                           )
+(                       #        # #      #   #      r--T                 )
+(                       #        # #      #   #      (  )                 )
+(                       #        # #      #   #      L__J                 )
+(                       #    ##### #####      #                           )
+(                       # ###           ###   #                           )
+(                       # #               #   #                           )
+(                       ###               #####                           )
+(                                                                         )
+(                                                                         )
+(                        r-------------------T                            )
+(      _________________J                     L_________________          )
+(      (                   r---------------T                   )          )
+(      (                   (               )                   )          )
+(      (                   (               )                   )          )
+(      (       r--T   r--T (               ) r--T   r--T       )          )
+(      (       (  )   (  ) L_______________J (  )   (  )       )          )
+(      (       (  )   (  )                   (  )]  (  )       )          )
+L______(  r-------T   (  )                   (  )   r-------T  )__________J
+(         (       )   (   --------T r--------   )   (       )             )
+(         L_______J   (           ) (           )   L_______J             )
+(                    r(           ) (           )                         )
+(                    LL___________J L___________J]                        )
+(r----T         r-T                                  n                    )
+(L_   )      r------T                             r-- -------T            )
+(  L   ]     (      )                             (          )            )
+(   L_J      (       ]                           [           )            )
+(            L___   )                             (   _______J            )
+(                (  )     r------T r---------T    (  )                    )
+(         r---T  (  )     ( r---T -  r------T)    (  )     rT    r--T r--T)
+(        )     ( (  )     ([     ]]  (      ))    (  )     LJ    (  ) (  ))
+( ###    )     ( (  )     ( (   )   [       ))    (  )   r-----T L__J L__J)
+(##-##   )     ( (  )     ([     ]]  L______JJ    (  )  [      )          )
+( #-#    )     ( L__J     ( L___J     (     )     L__J   (     ) r-------T)
+(##-##   )     (          L   (              T          r      ) (       ))
+(##-##   )     ( r--T      (              ###)    r--T -(      ) L___    ))
+( #-#    )     ( (   ]    rr-T    (   ##  ###)   [   )  L      )     L___J)
+( #-#    )     ( (  )     ((  ----T  #  #####)    (  )   (     )      r--T)
+( ###    )     ( (  )     ((      )--#    ###)    (  )   (     ) r--T (  ))
+(        )     ( (  )     ((      )__#    ###)    (  )   L_____J (   -   ))
+(         L___J  (  )     (L______J _#####   )    (  )           L_______J)
+(                (  )     L________J L_______J    (  )                    )
+(            r---   )                             (   ---T n   n   n   n #)
+(            (       ]                            (      ) u   u   u   u #)
+(            (      )                             (      )               #)
+(            L______J   n                     n   L______J                )
+(                     r- ---------T r--------- -T                         )
+(          n          (           ) (            ]                 ###    )
+(    r----- ------T   (           ) (           )   r-------T             )
+(    (            )   (   ________J L________   )   (       )             )
+(    L_________   )   (  )                   (  )   (   ____J             )
+(              (  )   (  )                   (  )   (  )          (       )
+(              (  )   (  ) r---------------T (  )   (  )          r---T   )
+(              L__J   L__J (               ) L__J   L__J          (    T  )
+(#############             (               )                   r---     T )
+(  #  #   #  #             (               )                   (        ) )
+(       #    ##########    L_______________J                   r---T    ) )
+(  ########           #                                        L___J____J )
+(  #    #   ######### #                                                   )
+(  # ########      #             r---T        ####### ########## #########)
+(      ###    #    # ##    r-----     -----T                     #        )
+(#####     #####      #    (               ) #############################)
+(   #   ##    #  #### #    L_              )T#                            )
+( #   # #  #  #  #    #     (    (    )    ) #                            )
+(###########################(    (    )    )##                            )
+(                          #(    (    )    )#                             )
+(                          #(    (    )    )#                             )
+(                          #L____L____J____J#                             )
+(                                                                         )
+(                                                                         )
+(                                                                         )
+(                                                                         )
+L_________________________________________________________________________J
+;                                                                             
+;wall map
+;
+#\#\#\#\#\#\#\#\#\#\#\#\##\#\#\#\#\#\#\#\#\#\#\#\##\#\#\#\#\#\#\#\#\#\#\#\#
+\                                                                         \
+#                       '''''''''' '''''' '''''                           #
+\                       '        ' '      '   '      oooo                 \
+#                       '        ' '      '   '      o  o                 #
+\                       '        ' '      '   '      oooo                 \
+#                       '    ''''' '''''      '                           #
+\                       ' '''           '''   '                           \
+#                       ' '               '   '                           #
+\                       '''               '''''                           \
+#                                                                         #
+\                                                                         \
+#                        #\#\#\#\#\#\#\#\#\#\#                            #
+\      #\#\#\#\#\#\#\#\#\                     \#\#\#\#\#\#\#\#\#          \
+#      \                   AAAAAAAAAAAAAAAAA                   \          #
+\      #                   A               A                   #          \
+#      \                   A               A                   \          #
+\      #       ABAA   oooo A               A oooo   ABAA       #          \
+#      \       B  B   o  o ABAAABAAABAAAABAA o  o   B  B       \          #
+\      #       A  A   o  o                   o  oo  A  A       #          \
+#\#\#\#\  GGGGGGGGG   o  o                   o  o   GGGGGGGGG  \#\#\#\#\#\#
+\         G       G   o   ooooooooo ooooooooo   o   G       G             \
+#         GGGGGGGGG   o           o o           o   GGGGGGGGG             #
+\                    oo           o o           o                         \
+#                    oooooooooooooo oooooooooooooo                        #
+#zzzzzz         ooo                                  o                    #
+\zz   z      oooooooo                             ooo oooooooo            \
+#  z   z     o      o                             o          o            #
+\   eze      o       o                           o           o            \
+#            oooo   o                             o   oooooooo            #
+\                o  o     #\#\#\#\ ##\#\#\#\#\    o  o                    \
+#         AAAAA  o  o     \ lllll 0  hhhhhhhh#    o  o     oo    oooo oooo#
+\        A     B o  o     #l     lZ  h      h\    o  o     oo    o  o o  o\
+# zyz    A     A o  o     \ l   *   h       h#    o  o   FFFFFFF oooo oooo#
+\zzfzz   A     B o  o     #l     lZ  hhhhhhhh\    o  o  F      F          \
+# zdz    A     A oooo     \ lllll     E     2     oooo   F     F ooooooooo#
+\zzfzz   A     B          #   H              \          F      F o       o\
+#ezdze   A     A oooo      4              WVW\    oooo IF      F oooo    o#
+\ zfz    A     B o   o    \WVW    D   TT  TUT#   o   o  F      F     ooooo\
+# zdz    A     A o  o     #T  TTTTT  T  TTTUT\    o  o   F     F      oooo#
+\ eze    A     B o  o     \T      TTTT    TUT#    o  o   F     F oooo o  o\
+#        A     A o  o     #T      TTTV    TTT\    o  o   FFFFFFF o   o   o#
+\         AAAAA  o  o     \TTTTTTTT 3TTTTT   #    o  o           ooooooooo\
+#                o  o     #\#\#\#\#\ \#\#\#\#\    o  o                    #
+\            oooo   o                             o   oooo A   A   A   A '\
+#            o       o                            o      o A   A   A   A '#
+\            o      o                             o      o               '\
+#            oooooooo   o                     o   oooooooo                #
+\                     oo oooooooooo oooooooooo oo                         \
+#          A          o           o o            o                 '''    #
+#    AAAAAA AABAAAA   o           o o           o   ABAAAAAAA             #
+\    A            B   o   ooooooooo ooooooooo   o   A       A             \
+#    AAAAAAAAAA   A   o  o                   o  o   B   AAAAA             #
+\              A  A   o  o                   o  o   A  A          K       \
+#              A  A   o  o ABAAABAABAAAABAAA o  o   A  A          kkgkk   #
+\              ABAA   oooo A               A oooo   AAAA          k    k  \
+#'''''''''''''             A               A                   kkkk     k #
+\  '  '   '  '             A               A                   k        k \
+#       '    ''''''''''    AAAAAAAAAAAAAAAAA                   kjjjj    k #
+\  ''''''''           '                                        kkkkkkkkkk \
+#  '    '   ''''''''' '                                                   #
+\  ' ''''''''      '             bbcbb        ''''''' '''''''''' '''''''''\
+#      '''    '    ' ''    bbbbbb     bbbbbb                     '        #
+\'''''     '''''      '    b               b '''''''''''''''''''''''''''''\
+#   '   ''    '  '''' '    bb              bb'                            #
+\ '   ' '  '  '  '    '     b    b    b    b '                            \
+#'''''''''''''''''''''''''''b    b    b    b''                            #
+\                          'b    b    b    b'                             \
+#                          'b    b    b    b'                             #
+\                          'bbbbbbbbbbbbbbbb'                             \
+#                                                                         #
+\                                                                         \
+#                                                                         #
+\                                                                         \
+#\#\#\#\#\#\#\#\#\#\#\#\##\#\#\#\#\#\#\#\#\#\#\#\##\#\#\#\#\#\#\#\#\#\#\#\#
+;
+; Floor map
+;
+                                                                           
+                                                                           
+                                                                           
+                                                     qqqq                  
+                                       qq            qqqq                  
+                                       qq            qqqq                  
+                                                                           
+                                                                           
+                                                                           
+                                                                           
+                                                                           
+                                                                           
+                                                                           
+                                                                           
+                           qqqqqqqqqqqqqqqqq                               
+                           qqqqqqqqqqqqqqqqq                               
+                           qqqqqqqqqqqqqqqqq                               
+               qqqq   qqqq qqqqqqqqqqqqqqqqq qqqq   qqqq                   
+               qqqq   qqqq qqqqqqqqqqqqqqqqq qqqq   qqqq                   
+               qqqq   qqqq                   qqqq   qqqq                   
+          qqqqqqqqq   qqqq                   qqqq   qqqqqqqqq              
+          qqqqqqqqq   qqqqqqqqqqqqq qqqqqqqqqqqqq   qqqqqqqqq              
+          qqqqqqqqq   qqqqqqqqqqqqq qqqqqqqqqqqqq   qqqqqqqqq              
+                      qqqqqqqqqqqqq qqqqqqqqqqqqq                          
+                      qqqqqqqqqqqqq qqqqqqqqqqqqq                          
+ xxxxxx                                              q                     
+ xxxxxx      qqqqqqqq                             qqqqqqqqqqqq             
+   xxxxx     qqqqqqqq                             qqqqqqqqqqqq             
+    xxx      qqqqqqqqq                           qqqqqqqqqqqqq             
+             qqqqqqqq                             qqqqqqqqqqqq             
+                 qqqq                             qqqq                     
+          qqqqq  qqqq                             qqqq     qq    qqqq qqqq 
+          qpqpq  qqqq             m               qqqq     qq    qqqq qqqq 
+  xxx     qqqqq  qqqq                             qqqq   mmmmmmm qqqq qqqq 
+ xx xx    qqqqq  qqqq             m               qqqq  mmmmmmmm           
+  x x     qpqpq  qqqq                             qqqq   mmmmmmm qqqqqqqqq 
+ xx xx    qqqqq                                         mmmmmmmm qqqqqqqqq 
+ xx xx    qpqpq  qqqq                     qqq     qqqq  mmmmmmmm qqqqqqqqq 
+  x x     qqqqq  qqqqq     qqq        qq  q q    qqqqq  mmmmmmmm     qqqqq 
+  x x     qpqpq  qqqq      qqqqqqqqqqqqqqqq q     qqqq   mmmmmmm      qqqq 
+  xxx     qqqqq  qqqq      qqqqqqqqqqqqqqqq q     qqqq   mmmmmmm qqqq qqqq 
+          qpqpq  qqqq      qqqqqqqqmmqqqqqqqq     qqqq   mmmmmmm qqqqqqqqq  
+          qqqqq  qqqq      qqqqqqqq  qqqqq        qqqq           qqqqqqqqq 
+                 qqqq                             qqqq                     
+             qqqqqqqq                             qqqqqqqq q   q   q   q   
+             qqqqqqqqq            qqq             qqqqqqqq q   q   q   q   
+             qqqqqqqq             qqq             qqqqqqqq                 
+             qqqqqqqq   q                     q   qqqqqqqq                 
+                      qqqqqqqqqqqqq qqqqqqqqqqqqq                          
+           q          qqqqqqqqqqqqq qqqqqqqqqqqqqq                         
+     qqqqqqqqqqqqqq   qqqqqqqqqqqqq qqqqqqqqqqqqq   qqqqqqqqq              
+     qqqqqqqqqqqqqq   qqqqqqqqqqqqq qqqqqqqqqqqqq   qqqqqqqqq              
+     qqqqqqqqqqqqqq   qqqq                   qqqq   qqqqqqqqq              
+               qqqq   qqqq                   qqqq   qqqq                   
+               qqqq   qqqq qqqqqqqqqqqqqqqqq qqqq   qqqq                   
+               qqqq   qqqq qqqqqqqqqqqqqqqqq qqqq   qqqq                   
+                           qqqqqqqqqqqqqqqqq                               
+                           qqqqqqqqqqqqqqqqq                               
+                           qqqqqqqqqqqqqqqqq                   mmmmm       
+                                                               mmmmm       
+                                                                           
+                                 QQQQQ                                     
+                           QQQQQQQQQQQQQQQQQ                               
+                           QQQQQQQQQQQQQQQQQ                               
+                           QQQQQQQQQQQQQQQQQ                               
+                            QQQQQQQQQQQQQQQQ                               
+                            QQQQQQQQQQQQQQQQ                               
+                            QQQQQQQQQQQQQQQQ                               
+                            QQQQQQQQQQQQQQQQ                               
+                            QQQQQQQQQQQQQQQQ                               
+                                                                           
+                                                                           
+                                                                           
+                                                                           
+                                                                           
+;
+;

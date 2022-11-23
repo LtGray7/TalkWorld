@@ -1,0 +1,161 @@
+;
+; id [filname1 freq1 vol1 ...(max 3)] [END] loop mode freqmax
+; max file length  = 25 chars
+; 1234567890123456789012345
+;
+; here are all the bird sounds
+B sounds\bird1.wav 1 1.0 END 0 0 1
+;
+; here are all the dog sounds
+D sounds\dog02.wav 1 1.0 END 2 0 1
+@ sounds\dog02.wav 1 1.0 END 1 0 1
+;
+; here are all the pool sounds
+P sounds\pool.wav 1 1.0 END -1 0 1
+;
+; here are all the fountain sounds
+F sounds\fountain.wav 1 1.0 END -1 0 1
+? sounds\fountain.wav 1 0.5 END -1 0 1
+U sounds\fountain.wav 1 0.2 END -1 0 1
+;
+; here are all the church sounds
+A sounds\churchmonk.wav 1 1.0 END 0 0 1
+;
+; here are all the cinema sounds
+3 sounds\cinema.wav 1 1.0 END -1 0 1
+;
+; here are all the fire sounds
+6 sounds\fire.wav 1 0.5 END -1 0 1
+5 sounds\fire.wav 1 1.0 END -1 0 1
+;
+; here are all the ufo sounds
+9 sounds\ufo.wav 1 1 END -1 0 1
+;
+; here are all the teleport sounds
+;8 sounds\teleport.wav 1 1.0 END 0 0 1
+;
+; here are all the splat sounds
+W sounds\splat.wav 1 1.0 END 0 0 1
+;
+; here are all the rooster sounds
+V sounds\rooster.wav 1 1.0 END 0 0 1
+;
+; here are all the cow sounds
+1 sounds\cow3.wav 1 1.0 END 0 0 1
+;
+; here are all the ???? sounds
+2 END 0 0 0
+;
+; here are the door combinations
+a sounds\bigo.wav 1 1.0 sounds\bigc.wav 1 1.0 END 0 3 1
+b sounds\slideoc.wav 1 1.0 sounds\slideoc.wav 1 1.0 END 0 3 1
+c sounds\smallo.wav 1 1.0 sounds\smallc.wav 1 1.0 END 0 3 1
+n END 0 0 0
+s END 0 0 0
+;
+; here are all the vandergraf sounds
+4 sounds\vandergraf.wav 1 1.0 END 0 0 1
+;
+; here are all the clock sounds
+7 sounds\cuck.wav 1 1.0 END 0 0 1
+X END 0 0 0
+Y sounds\churchbell.wav 1 1.0 END 0 0 1
+;
+; here are all the applause sounds
+Z sounds\applaus.wav 1 1.0 END 0 0 1
+;
+; here are all the squish sounds (yay!)
+\ sounds\squish.wav 1 1.0 END 0 0 1
+;
+; A blank sound - same as a space.
+* END 0 0 0
+T END 0 0 0
+r END 0 0 0
+L END 0 0 0
+J END 0 0 0
+- END 0 0 0
+_ END 0 0 0
+( END 0 0 0
+) END 0 0 0
+# END 0 0 0
+] END 0 0 0
+[ END 0 0 0
+;
+END
+;
+r-------------------------------------------------------------------------T
+(                                                                         )
+(                       ########## ###### #####                           )
+(                       #        # #      #   #                           )
+(                       #        # #   rT #   #                           )
+(                       #        # #   LJ #   #                           )
+(                       #    ##### #####      #                           )
+(                       # ###           ###   #                           )
+(                       # #               #   #                           )
+(                       ###               #####                           )
+(                                                                         )
+(                                                                         )
+(                        r-------------------T                            )
+(      _________________JW _________________  L_________________          )
+(      (                  )   (   )UUUU(    (           W      )          )
+(      (  r---T           )   (   )UUUU(    (           r----T )          )
+(      (  (2  )_c__       )   (   )UUUU(    (       _c__(    ) )          )
+(      (  L   )    (  r-cT)   (   )UUUU(    (r--T  )    (    ) )          )
+(      (      c    c  (  ))   (   )UUUU(    ((  )  c    c      )          )
+(      (  ___VJ    (  (  ) -c --c---c ---c - (  )] )    L____  )          )
+L______( )    #    (  (  )                   (  )  )    (    ( )__________J
+(        )    #    (  (  )--------T r-------c   )  )    9    ( )          )
+(        )         (  (  #        ) (   #   #   )  )         ( )_a__      )
+(         ---------  r(  #        ) (   #   #   )   ---------       T___  )
+rY------------T      LL_c___c_c__cJ Lc__c_c___c_J] [        ] r------ ) T )
+(r----T   )     r-T           \                      n        (       )   )
+(L_   )   )  r------T                             r-- -------T    999 )   )
+(  L  Aa  )  (      )                   2         (      )   c    999 )   )
+(   L_J   )  (#####  c                           c   T---)---)    999 )   )
+L____Y____J  L___   )                             (   _______J________J   )
+(         _____  (  c     r------T r---------T    cT )                    )
+(     Y  )     ( (# )     ( r---T -  r------T)    (  )     rc    r--T r--T)
+(-----T  )     c (  c     (\     UUUUU  #1  ))    c L)     LJ    c  ) (  ))
+( r-T )  )_____( (  )     ( (   a???a     # ))    (  )   rPPPPPP L__J L_cJ)
+([   ])  )     c ( #c     ([     ?FFF?U ____JJ    cJ c  bTPr--TP          )
+( ( Aa   )_____( L__J     ( L___ ?FFFF?U    )     L__J   (PL__JP r-------T)
+(r   T)  )     c          L     U?FFFF?U     T   W      r PPPPPP (       ))
+(L   J)  )_____( r--T      (    U?FFFF?U  raT)    r--T  (------) L_c_    ))
+( ( ) )  )     c (   c    DraT  U?????rT  ( ))   c   )  L      )     L___J)
+( ( ) )  )_____( (##)     ((  6--6r --  6   ))    (##)   (     )      r--T)
+( L_J ) Y)     c (  )    V((      5a_6L DL  ))    c  )   (  Z  ) rc-T (  ))
+(Y____J  )     ( (  )     ((T LJ  )  (T   _6 )    (  )   L_____J (   -   ))
+(        )     ( (  c     (L6 ___6  _L_6 J   )    c  )           L_______J)
+(         -----  (  )     L_  ____ _J L______J    (  )    c_   c   c   c  )
+( 7r----T    r--- #_)          ()     ()          (## ---T) (() ()) ( ) (#)
+(  (    )    (       c    r---- ) r-T ( -- --T    c      ))\(() ()  (() (#)
+(  (    a    (###   )     L__ __J L_J L___ __J    (   ###) c ( - ) - ( - #)
+(  (    )    L______J   c                     c   L______J   r---------   )
+(  L____J             r- ---c-c--cT rc--c-c--- -T            (    r---T   )
+(    ______n__c____   (  )        ) (   r   T    ]  _c_______(    a###)   )
+(   )              (  (  )        ) (   L   J   )  )    T    (    L___J   )
+(   )--L---T  (    c  (  )________J L_______c   )  )    )    (            )
+(   )         (    (  (  )       W           (  )  c    (    (   W        )
+(    ---------T    (  (  ) _c___c__c____c___ (  )  )    r----(            )
+(            V)    (  (  ))   (   )    (    ((  )  )    (    (    r4b4T   )
+(B            )    (  L__J)   (   )    (    (L__J  )    (    (    (    4  )
+(############# -c--       )   (   )    (    (       ----     ( r4--     T )
+(  #  #W  #  #            )   (   )    (    (       r--------- (        ) )
+(       #    ##########   )   (   )    (   \(       (          r---T  999 )
+( B########B          #-T  -----------------  r-----(          L______999 )
+(  #    #   #########B#                             (                     )
+(  # ######## \    #             r-b-T        #######V##########\#########T
+(      ###    #    # ##    r-----     -----T  B            B     #        )
+r#####     #####      #    (               )7#############################J
+(   #   ##    #@@#### #    L____ __ ___ ___JT#                            )
+(B#   #V#  #  #@@#    #     LJ __(__ _)__ _# #                            )
+L##########################[(    (    )    )]#                            )
+(                           (    (    )    )                              )
+(                           (    (    )    )                              )
+(                           3333333333333333                              )
+(                                                                         )
+(                                                                         )
+(                                                                         )
+(                                                                         )
+L_________________________________________________________________________J
+;

@@ -1,0 +1,263 @@
+; Mark's map format
+;
+;
+; Comments are started with a semi-colon
+;
+;
+; Width
+75
+; Height
+75
+; floor height
+950
+; Map Data
+;
+; Number of texture. NORMAL RRIGHT RLEFT MIRROR FLIP
+;
+;. 128\grass.pcx 128\grass.pcx 1 1 NORMAL
+y 128\Church7.pcx 128\Church7.pcx 1 1 NORMAL
+q 128\Ihouse6.pcx 128\Ihouse6.pcx 1 1 NORMAL
+g 128\Mustop.pcx 128\Mustop.pcx 1 1 NORMAL
+A 128\Tavtop.pcx 128\Tavtop.pcx 1 1 NORMAL
+b 128\Tudtop.pcx 128\Tudtop.pcx 1 1 NORMAL
+k 128\Sciroof.pcx 128\Sciroof.pcx 1 1 NORMAL
+m 128\Ihall4.pcx 128\Ihall4.pcx 1 1 NORMAL
+n 128\Musroof.pcx 128\Musroof.pcx 1 1 NORMAL
+a 128\House3b.pcx 128\House3b.pcx 1 1 NORMAL
+;B 128\Church1b.pcx 128\Church1b.pcx 1 1 NORMAL
+end
+;
+;
+                                                                           
+                                                                           
+                                                                           
+                                                     r--T                  
+                                                     (  )                  
+                                                     L__J                  
+                                                                           
+                                                                           
+                                                                           
+                                                                           
+                                                                           
+                                                                           
+                                                                           
+                                                                           
+                                                                           
+                                                                           
+                                                                           
+                      r--T                   r--T                          
+                      (  )                   (  )                          
+                      (  )                   (   ]                         
+          r-------T   (  )                   (  )   r-------T              
+          (       )   (   --------T r--------   )   (       )              
+          L_______J   (           ) (           )   L_______J              
+                     r            ) (           )                          
+                     L____________J L____________]                         
+                r-T                                  n                     
+   #         r--   -T                             r----------T             
+             (      )                             (          )             
+             (       ]                           [           )             
+             L___   )                             (   _______J             
+                 (  )                             (  )                     
+                 (  )                r------T     (  )     rT    r--T r--T 
+                 (  )                (      )     (  )     LJ    (  ) (  ) 
+   #             (  )               [       )     (  )           L__J L__J 
+                 (  )                L______J     (  )                     
+                 L__J                             L__J           r-------T 
+                                                                 (       ) 
+                 r--T                     r-T     r--T           L___    ) 
+                 (   ]     r-T        rT  ( )    [   )               L___J 
+                 (  )      (  ----T  r  --( )     (  )                r--T 
+                 (  )      (      )--(      )     (  )           r--T (  ) 
+                 (  )      (      )__(    __J     (  )           (   -   ) 
+                 (  )      L______J  L___J        (  )           L_______J 
+                 (  )                             (  )                     
+             r---   )                             (   ---T                  
+             (       ]                            (      )                 
+             (      )                             (      )                 
+             L______J   n                     n   L______J                 
+                      r- ---------T r--------- -T                          
+                      (           ) (            ]                         
+                      (           ) (           )                          
+                      (   ________J L________   )                          
+                      (  )                   (  )                          
+                      (  )                   (  )                          
+                      (  )                   (  )                 r---T    
+                      L__J                   L__J                 (    T   
+                                                               r---     T  
+                                                               (        )  
+                                                               (        )  
+                                                               L________J  
+                                                                           
+                                                                           
+                                                                           
+                                                                           
+                                                                           
+                                                                           
+                                                                           
+                                                                           
+                                                                           
+                                                                           
+                                                                           
+                                                                           
+                                                                           
+                                                                           
+                                                                           
+;                                                                          
+;wall map
+;
+                                                                           
+                                                                           
+                                                                           
+                                                     bbbb                  
+                                                     b  b                  
+                                                     bbbb                  
+                                                                           
+                                                                           
+                                                                           
+                                                                           
+                                                                           
+                                                                           
+                                                                           
+                                                                           
+                                                                           
+                                                                           
+                                                                           
+                      bbbb                   bbbb                          
+                      b  b                   b  b                          
+                      b  b                   b   b                         
+          aaaaaaaaa   b  b                   b  b   aaaaaaaaa              
+          a       a   b   bbbbbbbbb bbbbbbbbb   b   a       a              
+          aaaaaaaaa   b           b b           b   aaaaaaaaa              
+                     b            b b           b                          
+                     bbbbbbbbbbbbbb bbbbbbbbbbbbbb                         
+                bbb                                  b                     
+   y         bbb   bb                             bbbbbbbbbbbb             
+             b      b                             b          b             
+             b       b                           b           b             
+             bbbb   b                             b   bbbbbbbb             
+                 b  b                             b  b                     
+                 b  b                gggggggg     b  b     bb    bbbb bbbb 
+                 b  b                g      g     b  b     bb    b  b b  b 
+   y             b  b               g       g     b  b           bbbb bbbb 
+                 b  b                gggggggg     b  b                     
+                 bbbb                             bbbb           bbbbbbbbb 
+                                                                 b       b 
+                 bbbb                     AAA     bbbb           bbbb    b 
+                 b   b     AAA        AA  A A    b   b               bbbbb 
+                 b  b      A  AAAAA  A  AAA A     b  b                bbbb 
+                 b  b      A      AAAA      A     b  b           bbbb b  b 
+                 b  b      A      AAAA    AAA     b  b           b   b   b 
+                 b  b      AAAAAAAA  AAAAA        b  b           bbbbbbbbb 
+                 b  b                             b  b                     
+             bbbb   b                             b   bbbb                 
+             b       b                            b      b                 
+             b      b                             b      b                 
+             bbbbbbbb   b                     b   bbbbbbbb                 
+                      bb bbbbbbbbbb bbbbbbbbbb bb                          
+                      b           b b            b                         
+                      b           b b           b                          
+                      b   bbbbbbbbb bbbbbbbbb   b                          
+                      b  b                   b  b                          
+                      b  b                   b  b                          
+                      b  b                   b  b                 kkkkk    
+                      bbbb                   bbbb                 k    k   
+                                                               kkkk     k  
+                                                               k        k  
+                                                               k        k  
+                                                               kkkkkkkkkk  
+                                                                           
+                                                                           
+                                                                           
+                                                                           
+                                                                           
+                                                                           
+                                                                           
+                                                                           
+                                                                           
+                                                                           
+                                                                           
+                                                                           
+                                                                           
+                                                                           
+                                                                           
+;
+; Floor map
+;
+                                                                           
+                                                                           
+                                                                           
+                                                                           
+                                                                           
+                                                                           
+                                                                           
+                                                                           
+                                                                           
+                                                                           
+                                                                           
+                                                                           
+                                                                           
+                                                                           
+                                                                           
+                                                                           
+                                                                           
+                                                                           
+                                                                           
+                                                                           
+                                                                           
+                                                                           
+                                                                           
+                                                                           
+                                                                           
+                                                                           
+                                                                           
+                                                                           
+                                                                           
+                                                                           
+                                                                           
+                            mmmmm    nnnnnnnn                              
+                           mmmmmmm   nnnnnnnn                              
+                            mmmmm   nnnnnnnnn                              
+                           mmmmmmm   nnnnnnnn                              
+                            mmmmm                                          
+                                                                           
+                                          qqq                              
+                                      qq  qqq                              
+                                     qqqqqqqq                              
+                                     qqqqqqqq                              
+                                     qqqqqqqq                              
+                                     qqqqq                                 
+                                                                           
+                                                                           
+                                                                           
+                                                                           
+                                                                           
+                                                                           
+                                                                           
+                                                                           
+                                                                           
+                                                                           
+                                                                           
+                                                                  mmmmm    
+                                                                  mmmmmm   
+                                                               mmmmmmmmmm  
+                                                               mmmmmmmmmm  
+                                                               mmmmmmmmmm  
+                                                               mmmmmmmmmm  
+                                                                           
+                                 mmmmm                                     
+                           mmmmmmmmmmmmmmmmm                               
+                           mmmmmmmmmmmmmmmmm                               
+                           mmmmmmmmmmmmmmmmm                               
+                             mmmmmmmmmmmmmm                                
+                             mmmmmmmmmmmmmm                                
+                             mmmmmmmmmmmmmm                                
+                                                                           
+                                                                           
+                                                                           
+                                                                           
+                                                                           
+                                                                           
+                                                                           
+;
+;
